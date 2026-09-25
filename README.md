@@ -3,3 +3,18 @@ idkfetch is a fastfetch type tool written in Python. I’d call this a joke beca
 
 
 <img width="756" height="1147" alt="image" src="https://github.com/user-attachments/assets/8cb126f9-300f-41a5-9f5c-d951611475bd" />
+
+
+
+
+Tools and websites i used: 
+
+https://patorjk.com/software/taag/#p=display&f=Bleach&t=Hello&x=none&v=4&h=4&w=80&we=false&ft=thedraw
+
+https://www.asciiart.eu/art/88d38432debb53c4
+
+https://asciiart.website/art/5509
+
+
+
+-akx25
