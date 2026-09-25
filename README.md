@@ -5,6 +5,10 @@ idkfetch is a fastfetch type tool written in Python. I’d call this a joke beca
 <img width="756" height="1147" alt="image" src="https://github.com/user-attachments/assets/8cb126f9-300f-41a5-9f5c-d951611475bd" />
 
 
+Supported systems: <img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/2bf520aa-0749-408c-841b-2ff02ed3bf78" /> & <img width="1165" height="1024" alt="image" src="https://github.com/user-attachments/assets/5d77b5e1-2da4-496e-a7aa-a1d19a479a44" />
+
+
+
 
 
 Tools and websites i used: 
