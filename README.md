@@ -37,5 +37,8 @@ https://www.pngmart.com/image/681310 (LINUX PICTURE)
 
 
 
-My comment: idkfetch was insanely easy to make because it only uses Python's print("Hello World")!
+My comment: 
+
+idkfetch was insanely easy to make because it only uses Python's print("Hello World")
+
 + The tools helped a lot :)
