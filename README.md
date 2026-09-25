@@ -27,4 +27,15 @@ https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-
 
 https://www.pngmart.com/image/681310 (LINUX PICTURE)
 
--akx25
+
+
+
+
+
+
+
+
+
+
+My comment: idkfetch was insanely easy to make because it only uses Python's print("Hello World")!
++ The tools helped a lot :)
