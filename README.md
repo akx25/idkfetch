@@ -8,7 +8,10 @@ idkfetch is a fastfetch type tool written in Python. I’d call this a joke beca
 Supported systems: <img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/2bf520aa-0749-408c-841b-2ff02ed3bf78" /> & <img width="1165" height="1024" alt="image" src="https://github.com/user-attachments/assets/5d77b5e1-2da4-496e-a7aa-a1d19a479a44" />
 
 
+You need to install Python on Windows to use idkfetch.
+https://www.python.org/downloads/windows/
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/34df117a-350e-497c-8798-5786a1d9a3ae" />
 
 
 Tools and websites i used: 
@@ -26,6 +29,8 @@ PICTURES:
 https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2%2FWindows-Logo.png&f=1&nofb=1&ipt=18384e30f891ba2c93b59a247ad76415ea23db062169b660c30459c20d848b36 (WINDOWS PICTURE)
 
 https://www.pngmart.com/image/681310 (LINUX PICTURE)
+
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandlogos.net%2Fwp-content%2Fuploads%2F2020%2F12%2Fpython-logo.png&f=1&nofb=1&ipt=d3127c9022a530a3346208d68d5936aec81c6aae46275251ee9bffe89f939c5e (PYTHON PICTURE)
 
 
 
