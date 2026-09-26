@@ -1,42 +1,42 @@
-print("")
-print("       .---.        ____  ____              _.-;;-._")
-print("      /     \      /  _ \/  __\      '-..-'|   ||   |")
-print("      \.@-@./      | / \||  \/|      '-..-'|_.-;;-._|")
-print("      /`\_/`\      | \_/||    /      '-..-'|   ||   |")
-print("     //  _  \\      \____/\_/\_\      '-..-'|_.-''-._|")
-print("    | \     )|_                                       ")
-print("   /`\_`>  <_/ \                                      ")
-print("   \__/'---'\__/                                      ")
-print("OS: Linux or Windows")
-print("Host: idk")
-print("Kernel: idk")
-print("Uptime: idk")
-print("Packages: idk")
-print("Shell: idk")
-print("Display: idk")
-print("Window Manager: idk")
-print("WM Theme: idk")
-print("Theme: idk")
-print("Icons: idk")
-print("Font: idk")
-print("Cursor: idk")
-print("Terminal: idk")
-print("Terminal: Font: idk")
-print("CPU: idk")
-print("GPU: idk")
-print("Memory: idk")
-print("Swap: idk")
-print("Disk: (C:\ or (/)")
-print("Local IP: idk")
-print("Locale: idk")
-print("")
-print("  _     _ _     __     _       _   ")
-print(" (_)   | | |   / _|   | |     | |   ")
-print("  _  __| | | _| |_ ___| |_ ___| |__  ")
-print(" | |/ _` | |/ /  _/ _ \ __/ __| '_ \ ")
-print(" | | (_| |   <| ||  __/ || (__| | | |")
-print(" |_|\__,_|_|\_\_| \___|\__\___|_| |_|")
-print("")
-print("")
-print("")
-input("Press ENTER to quit:")
+print(r"""
+       .---.        ____  ____              _.-;;-._
+      /     \      /  _ \/  __\      '-..-'|   ||   |
+      \.@-@./      | / \||  \/|      '-..-'|_.-;;-._|
+      /`\_/`\      | \_/||    /      '-..-'|   ||   |
+     //  _  \\     \____/\_/\_\      '-..-'|_.-''-._|
+    | \     )|_
+   /`\_`>  <_/ \
+   \__/'---'\__/
+OS: Linux or Windows
+Host: idk
+Kernel: idk
+Uptime: idk
+Packages: idk
+Shell: idk
+Display: idk
+Window Manager: idk
+WM Theme: idk
+Theme: idk
+Icons: idk
+Font: idk
+Cursor: idk
+Terminal: idk
+Terminal: Font: idk
+CPU: idk
+GPU: idk
+Memory: idk
+Swap: idk
+Disk: (C:\ or /)
+Local IP: idk
+Locale: idk
+
+  _     _ _     __     _       _   
+ (_)   | | |   / _|   | |     | |   
+  _  __| | | _| |_ ___| |_ ___| |__  
+ | |/ _` | |/ /  _/ _ \ __/ __| '_ \ 
+ | | (_| |   <| ||  __/ || (__| | | |
+ |_|\__,_|_|\_\_| \___|\__\___|_| |_|
+
+""")
+
+input("Press ENTER to quit: ")
